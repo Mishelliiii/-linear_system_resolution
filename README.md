@@ -1,1 +1,1 @@
-# -linear_system_resolution
+# resolvedor-de-sitemas-de-equacoes-lineares-pelo-metodo-gauss
